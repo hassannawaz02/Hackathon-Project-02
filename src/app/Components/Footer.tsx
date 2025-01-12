@@ -5,7 +5,7 @@ import NewsLetter from "./News-Letter";
 export default function Footer() {
   return (
     <footer className="bg-color1 text-black">
-      <NewsLetter/>
+      {/* <NewsLetter/> */}
       <div className="w-full bg-colo1 p-8 md:p-12">
         <div className="mx-auto max-w-6xl">
           {/* Main Footer Content */}
